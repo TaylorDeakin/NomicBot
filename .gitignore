@@ -168,3 +168,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# praw config
+praw.ini
